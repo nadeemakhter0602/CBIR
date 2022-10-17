@@ -16,6 +16,7 @@ folders.db
 folders.db-journal
 imgdir.txt
 *.db
+backend.py
 *.db-journal
 data.py
 face2.onnx
