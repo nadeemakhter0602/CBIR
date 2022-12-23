@@ -4,8 +4,8 @@ This software consists of a simple interface to search, scan and view images bas
 
 Screenshots :
 
-![](.\assets\Screenshot_20221223_162812.png)
+![](https://github.com/nadeemakhter0602/CBIR/blob/main/assets/Screenshot_20221223_162812.png)
 
-![](.\assets\Screenshot_20221223_163639.png)
+![](https://github.com/nadeemakhter0602/CBIR/blob/main/assets/Screenshot_20221223_163639.png)
 
-![](.\assets\Screenshot_20221223_164103.png)
+![](https://github.com/nadeemakhter0602/CBIR/blob/main/assets/Screenshot_20221223_164103.png)
