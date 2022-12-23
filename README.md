@@ -4,8 +4,8 @@ This software consists of a simple interface to search, scan and view images bas
 
 Screenshots :
 
-![](assets\Screenshot_20221223_162812.png)
+![](.\assets\Screenshot_20221223_162812.png)
 
-![](assets\Screenshot_20221223_163639.png)
+![](.\assets\Screenshot_20221223_163639.png)
 
-![](assets\Screenshot_20221223_164103.png)
+![](.\assets\Screenshot_20221223_164103.png)
